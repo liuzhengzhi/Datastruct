@@ -1,0 +1,4 @@
+struct mm
+{
+	int a;
+};
